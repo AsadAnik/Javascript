@@ -20,11 +20,11 @@
         study : 'Collage',
 
     }, {
-        name : 'Sarjia Riya',
-        age : 16,
+        name : 'Samantha',
+        age : 19,
         roll : 20,
-        class : 'SSC Ten',
-        study : 'School',
+        class : '2nd year',
+        study : 'Collage',
     }]
 
     additionalOne = ourMembers[0].name +' + '+ ourMembers[1].name
